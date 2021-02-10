@@ -1,4 +1,4 @@
 # Lab3
-![ruf draft](Untitled3.png)
-![actual pciture](Untitled3.png)
-![pde file](Untitled3.png)
+![ruf draft](lab3 picture.png)
+![actual pciture](pciture.png)
+![pde file](sketch_210209a.pde)
